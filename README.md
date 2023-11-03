@@ -3,7 +3,7 @@ Software Engineer
 
 Passionate Front-End Developer with 4+ years of experience crafting visually appealing and highly functional websites. Proficient in HTML, CSS, JavaScript, and modern front-end frameworks. Adept at collaborating with cross-functional teams to deliver outstanding user experiences.
 
-* 🌍  I'm based in Poland
+* 🌍  I'm based in Romania
 * ✉️  You can contact me at [roman1romanyshyn@gmail.com](mailto:roman1romanyshyn@gmail.com)
 * 🚀  I'm currently working on [The PC Room](http://thepcroom.com/)
 * 🧠  I'm learning Vue.js, Python.
