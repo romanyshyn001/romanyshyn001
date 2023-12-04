@@ -6,7 +6,7 @@ Passionate Front-End Developer with 4+ years of experience crafting visually app
 * 🌍  I'm based in Romania
 * ✉️  You can contact me at [mail](mailto:romanyshynr.i@gmail.com)
 * 🚀  I'm currently working on [The PC Room](http://thepcroom.com/)
-* 🧠  I'm learning Vue.js, Python.
+* 🧠  I'm learning Python.
 * 🤝  I'm open to collaborating on Medicine, Finances, Education.
 
 <a href="https://www.github.com/romanyshyn001" target="_blank" rel="noreferrer"><img
