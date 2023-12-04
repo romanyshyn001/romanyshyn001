@@ -4,7 +4,7 @@ Software Engineer
 Passionate Front-End Developer with 4+ years of experience crafting visually appealing and highly functional websites. Proficient in HTML, CSS, JavaScript, and modern front-end frameworks. Adept at collaborating with cross-functional teams to deliver outstanding user experiences.
 
 * 🌍  I'm based in Romania
-* ✉️  You can contact me at [romanyshynr.i@gmail.com](mailto:romanyshynr.i@gmail.com)
+* ✉️  You can contact me at [mail](mailto:romanyshynr.i@gmail.com)
 * 🚀  I'm currently working on [The PC Room](http://thepcroom.com/)
 * 🧠  I'm learning Vue.js, Python.
 * 🤝  I'm open to collaborating on Medicine, Finances, Education.
