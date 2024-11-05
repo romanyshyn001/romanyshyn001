@@ -7,7 +7,7 @@ Passionate Front-End Developer with 4+ years of experience crafting visually app
 * ✉️  You can contact me at [mail](mailto:romanyshynr.i@gmail.com)
 * 🚀  I'm currently working on [GetItAI](https://www.getit.ai/)
 * 🧠  I'm learning Python.
-* 🤝  I'm open to collaborating on Medicine, Finances, Education, Ecommerce
+* 🤝  I'm open to collaborating on Medicine, Finances, Education, E-commerce
 
 <a href="https://www.github.com/romanyshyn001" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/romanyshyn001?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
