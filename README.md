@@ -1,13 +1,16 @@
 Front end developer
 --------------------------
 
-Passionate Front-End Developer with 4+ years of experience crafting visually appealing and highly functional websites. Proficient in HTML, CSS, JavaScript, and modern front-end frameworks. Adept at collaborating with cross-functional teams to deliver outstanding user experiences.
+I am a full-stack developer with 4 years of experience in JavaScript, TypeScript, Next.js, Python, Node.js and
+React.js. I am a creative and results-driven software
+engineer dedicated to building and optimizing the performance of user-centric, high-impact
+websites. I leverage my technical, analytical, and problem-solving skills to create dynamic, high-
+speed websites, applications, and platforms.
 
 * 🌍  I'm based in Romania
 * ✉️  You can contact me at [mail](mailto:romanyshynr.i@gmail.com)
 * 🚀  I'm currently working on [GetItAI](https://www.getit.ai/)
-* 🧠  I'm learning Python.
-* 🤝  I'm open to collaborating on Medicine, Finances, Education, E-commerce
+* 🤝  I'm open to collaborating on Medicine, Finances, Education, E-commerce.
 
 <a href="https://www.github.com/romanyshyn001" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/romanyshyn001?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
